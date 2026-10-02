@@ -10,7 +10,7 @@ This project implements the following:
 
 Allows a user to enter a polling unit number and view the election results for that polling unit.
 
-File: polling_unit_results.php
+File: polling_unit_result.php
 
 2. LGA Results
 
@@ -57,7 +57,7 @@ Then open the following pages in your browser:
 
 Polling Unit Results
 
-http://localhost/bincom-test/polling_unit_results.php
+http://localhost/bincom-test/polling_unit_result.php
 
 LGA Results
 
